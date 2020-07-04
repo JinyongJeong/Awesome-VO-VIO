@@ -1,6 +1,11 @@
 # Awesome Visual-inertial-odometry (VIO) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Dataset
+## Dataset (VO)
+- [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+
+## Dataset (VIO)
+- [EuRoC MAV Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
+- [Fast Flight Dataset](https://github.com/KumarRobotics/msckf_vio/wiki/Dataset)
 
 
 ## Open Source
