@@ -11,6 +11,21 @@
 
 ## Open Source (VO)
 
+### Feature based
+- [PTAM](https://github.com/ethz-asl/ethzasl_ptam)
+- [REMODE](https://github.com/uzh-rpg/rpg_open_remode)
+- [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
+- [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
+- [Pro-SLAM](https://github.com/AhmedShaban94/ProSLAM)
+- [OpenVSLAM](https://github.com/xdspacelab/openvslam)
+
+### Direct
+- [DTAM](https://github.com/TeddybearCrisis/OpenDTAM-3.1)
+- [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
+- [SVO](https://github.com/uzh-rpg/rpg_svo)
+- [SVO2](https://github.com/symao/svo2)
+- [DSO](https://github.com/JakobEngel/dso)
+
 ## Open Source (VIO)
 
 - [VINS Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
