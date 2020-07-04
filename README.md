@@ -8,6 +8,7 @@
 ## Dataset (VIO)
 - [EuRoC MAV Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
 - [Fast Flight Dataset](https://github.com/KumarRobotics/msckf_vio/wiki/Dataset)
+- [TUM VI Dataset](https://vision.in.tum.de/data/datasets/visual-inertial-dataset)
 
 ## Open Source (VO)
 
