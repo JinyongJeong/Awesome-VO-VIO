@@ -38,6 +38,7 @@
 - [ROVIO](https://github.com/ethz-asl/rovio)
 - [Maplab](https://github.com/ethz-asl/maplab_rovio)
 
+## Major papers for VO, VIO
 
 | Category | Paper | Summary | Group | Publisher | Year | Author | Paper Link | Github Link |
 |-|-|-|-|-|-|-|-|-|
@@ -62,3 +63,9 @@
 |  | Rovio/ Roviloi/ Maplab | Rovio/ Roviloi/ Maplab | ETH | IROS/ IJRR | 2015/ 2017 | Michael Bloesch/ Roland Siegwart | [paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917728574?casa_token=0u2wF2vQIVMAAAAA:xd81KJ_h0doNHGkt1Fbe6dYLqXRKdrSejpCFgcMXdfQ07rgrBzl2LCMAdthFfCdDIlif8Cu6gUey,https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/155340/1/eth-48374-01.pdf) | [github](https://github.com/ethz-asl/rovio) |
 |  | Vins-mono: A robust and versatile monocular visual-inertial state estimator / A General Optimization-based Framework for global pose estimation with multiple sensors | VINS-Mono/ VINS-Fusion | HKUST | TRO/ arxiv | 2018/ 2019 | Tong Qin/ Shaojie Shen | [paper](https://arxiv.org/pdf/1901.03642.pdf) | [github](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion), [github](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |
 |  | Robust stereo visual inertial odometry for fast autonomous flight | Stereo + IMU | Kumar lab (penn) | RAL | 2018 | Ke Sun/ Vijay Kumar | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8258858&casa_token=9HVSH95BMDAAAAAA:YoiAMx2aVwrFFE9vWNFUog-NrYpGDUvV_m-uV-npMyHtSKNUWYozWYQoycg943pdbP7IsItH) |  |
+| Deep-Learning | CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction | CNN SLAM |  | CVPR | 2017 | Keisuke Tateno/ Nassir Navab | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tateno_CNN-SLAM_Real-Time_Dense_CVPR_2017_paper.pdf) |  |
+|  | Superpoint: Self-supervised interest point detection and description | SuperPoint |  | CVPR | 2018 | Daniel DeTone/ Andrew Rabinovich | [paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf) |  |
+|  | Lift: Learned invariant feature transform | LIFT |  | ECCV | 2016 | Kwang Moo Yi/ Fascal Fua | [paper](https://arxiv.org/pdf/1603.09114.pdf) |  |
+|  | PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization | PoseNet |  | ICCV | 2015 | Alex Kendal / Roberto Cipolla | [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) |  |
+|  | UnDeepVO: Monocular Visual Odometry through Unsupervised Deep | UnDeepVO |  | ICRA | 2018 | Ruihao Li/ Dongbing Gu | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461251&casa_token=gyRETSm-BWoAAAAA:H2wwcM_PyEU2GrtzRnYR5yhmDuH_O3IqriNK8YykLlWs2jS35ETkf5fYBivIVSZZnw7Dandx) |  |
+|  | DSAC - Differentiable RANSAC for Camera Localization | DSAC |  | CVPR | 2017 | Eric Brachmann/ Carsten Rother | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.pdf) |  |
