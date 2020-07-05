@@ -19,6 +19,7 @@
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 - [Pro-SLAM](https://github.com/AhmedShaban94/ProSLAM)
 - [OpenVSLAM](https://github.com/xdspacelab/openvslam)
+- [UcoSLAM](https://github.com/lambdaloop/ucoslam-cv3)
 
 ### Direct method
 - [DTAM](https://github.com/TeddybearCrisis/OpenDTAM-3.1)
