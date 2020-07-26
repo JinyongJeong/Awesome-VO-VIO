@@ -37,6 +37,7 @@
 - [OKVIS](https://github.com/ethz-asl/okvis)
 - [ROVIO](https://github.com/ethz-asl/rovio)
 - [Maplab](https://github.com/ethz-asl/maplab_rovio)
+- [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 
 ## Major papers for VO, VIO
 
@@ -63,6 +64,7 @@
 |  | Rovio/ Roviloi/ Maplab | Rovio/ Roviloi/ Maplab | ETH | 2015/ 2017 | Michael Bloesch/ Roland Siegwart | [paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917728574?casa_token=0u2wF2vQIVMAAAAA:xd81KJ_h0doNHGkt1Fbe6dYLqXRKdrSejpCFgcMXdfQ07rgrBzl2LCMAdthFfCdDIlif8Cu6gUey,https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/155340/1/eth-48374-01.pdf) | [github](https://github.com/ethz-asl/rovio) |
 |  | Vins-mono: A robust and versatile monocular visual-inertial state estimator / A General Optimization-based Framework for global pose estimation with multiple sensors | VINS-Mono/ VINS-Fusion | HKUST | 2018/ 2019 | Tong Qin/ Shaojie Shen | [paper](https://arxiv.org/pdf/1901.03642.pdf) | [github](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion), [github](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |
 |  | Robust stereo visual inertial odometry for fast autonomous flight | Stereo + IMU | Kumar lab (penn) | 2018 | Ke Sun/ Vijay Kumar | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8258858&casa_token=9HVSH95BMDAAAAAA:YoiAMx2aVwrFFE9vWNFUog-NrYpGDUvV_m-uV-npMyHtSKNUWYozWYQoycg943pdbP7IsItH) |  |
+|  | ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM | ORB-SLAM3 | Zaragoza |  | Carlos Campos/ Juan D. Tardós | [paper](https://arxiv.org/abs/2007.11898) | [github](https://github.com/UZ-SLAMLab/ORB_SLAM3) |
 | Deep-Learning | CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction | CNN SLAM |  | 2017 | Keisuke Tateno/ Nassir Navab | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tateno_CNN-SLAM_Real-Time_Dense_CVPR_2017_paper.pdf) |  |
 |  | Superpoint: Self-supervised interest point detection and description | SuperPoint |  | 2018 | Daniel DeTone/ Andrew Rabinovich | [paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf) |  |
 |  | Lift: Learned invariant feature transform | LIFT |  | 2016 | Kwang Moo Yi/ Fascal Fua | [paper](https://arxiv.org/pdf/1603.09114.pdf) |  |
